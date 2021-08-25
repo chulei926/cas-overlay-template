@@ -1,3 +1,10 @@
+# 测试地址
+```html
+https://leichu.com:8443/sso/login?service=http://app1.com
+https://leichu.com:8443/sso/login?service=http://app2.com
+```
+
+
 CAS Overlay Template
 ============================
 
